@@ -13,6 +13,7 @@ My name is Dorine, I'm 21 and I'm a cybersecurity student. My background is part
 - Threat Management: Threat analysis, intrusion detection, security incident response.
 - Network Security: Firewall configuration, intrusion detection/prevention systems (IDS/IPS), VPNs.
 - Malware Analysis: Reverse engineering techniques, identification, and neutralization of malicious software.
+  
 🛠 Development Skills
 - Python: Development of automation scripts, custom security tools, data analysis, and software creation.
 - Bash: Scripting for task automation, system management, and server administration.
