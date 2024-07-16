@@ -7,17 +7,16 @@ My name is Dorine, I'm 21 and I'm a cybersecurity student. My background is part
 
 
 ## 🛠 Skills
-🛠 Compétences en Cybersécurité
-- Blue Team : Surveillance et réponse aux incidents, gestion des vulnérabilités, analyse de logs, mise en place de politiques de sécurité.
-- Purple Team : Collaboration entre les équipes Red et Blue pour améliorer les défenses, tests d'intrusion, simulation d'attaques et défense active.
-- Gestion des menaces : Analyse des menaces, détection des intrusions, réponse aux incidents de sécurité.
-- Sécurisation des réseaux : Configuration de pare-feu, systèmes de détection/prévention des intrusions (IDS/IPS), VPN.
-- Analyse de malware : Techniques de reverse engineering, identification et neutralisation des logiciels malveillants.
-
-🛠 Compétences en Développement
-- Python : Développement de scripts d'automatisation, outils de sécurité personnalisés, analyse de données et création de logiciels.
-- Bash : Scripting pour l'automatisation des tâches, gestion des systèmes et administration de serveurs.
-- Autres langages : Familiarité avec HTML, CSS, JavaScript pour le développement web, ainsi que des notions en C/C++ pour des applications plus bas niveau.
+🛠 Cybersecurity Skills
+- Blue Team: Incident monitoring and response, vulnerability management, log analysis, implementation of security policies.
+- Purple Team: Collaboration between Red and Blue teams to enhance defenses, penetration testing, attack simulation, and active defense.
+- Threat Management: Threat analysis, intrusion detection, security incident response.
+- Network Security: Firewall configuration, intrusion detection/prevention systems (IDS/IPS), VPNs.
+- Malware Analysis: Reverse engineering techniques, identification, and neutralization of malicious software.
+🛠 Development Skills
+- Python: Development of automation scripts, custom security tools, data analysis, and software creation.
+- Bash: Scripting for task automation, system management, and server administration.
+- Other Languages: Familiarity with HTML, CSS, JavaScript for web development, as well as knowledge in C/C++ for lower-level applications.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorine-butelle-8011b620a/)
