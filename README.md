@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-My name is Dorine, I'm 21 and I'm a cybersecurity student. My background is particularly focused on Blue Team and Purple Team aspects, where I work on strengthening the defence of IT systems and improving threat detection capabilities. In addition to my cybersecurity skills, I also have a fairly solid grounding in development, which enables me to understand the technical aspects of attacks and create effective solutions to counter them. I'm passionate about protecting data and securing infrastructures, and I'm always looking for new opportunities to expand my knowledge.
+My name is Dorine, I'm a cybersecurity Agent. My background is particularly focused on Blue Team and Purple Team aspects, where I work on strengthening the defence of IT systems and improving threat detection capabilities. In addition to my cybersecurity skills, I also have a fairly solid grounding in development, which enables me to understand the technical aspects of attacks and create effective solutions to counter them. I'm passionate about protecting data and securing infrastructures, and I'm always looking for new opportunities to expand my knowledge.
 
 
 ## 🛠 Skills
